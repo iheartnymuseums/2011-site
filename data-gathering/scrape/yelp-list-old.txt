@@ -1,0 +1,116 @@
+name	url	reviews	rating	street	city	zip	phone
+American Folk Art Museum	American Folk Art Museum	/biz/american-folk-art-museum-new-york	31	4	45 W 53rd St	New York	10019	(212) 265-1040
+Art in General	Art In General	/biz/art-in-general-new-york	0		79 Walker Street Fl 6	New York	10013	(212) 219-0473
+Asia Society	The Asia Society	/biz/the-asia-society-new-york	2	4.5	725 Park Ave	New York	10021	(212) 327-9211
+Asian American Arts Centre	Asian American Arts Centre	/biz/asian-american-arts-centre-new-york	0		26 Bowery	New York	10013	(212) 233-2154
+Brooklyn Museum	Brooklyn Museum	/biz/brooklyn-museum-brooklyn-2	156	4.5	200 Eastern Pkwy	Brooklyn	11238	(718) 638-5000
+Bronx Museum of the Arts	Bronx Museum of the Arts	/biz/bronx-museum-of-the-arts-bronx	13	4	1040 Grand Concourse	Bronx	10456	(718) 681-6000
+Chelsea Art Museum	The Chelsea Art Museum	/biz/the-chelsea-art-museum-new-york	10	4	556 West 22nd Street	New York	10011	(212) 255-0719
+China Institute in America	China Institute In America	/biz/china-institute-in-america-new-york	4	3.5	125 E 65th St	New York	10021	(212) 744-8181
+Dahesh Museum of Art	Dahesh Museum Inc	/biz/dahesh-museum-inc-new-york#query:Dahesh%20Museum%20of%20Art	3	3.5	580 Madison Ave	New York	10022	(212) 759-0606
+Dia Art Foundation	Socarrat Paella Bar	/biz/socarrat-paella-bar-new-york#query:Dia%20Art%20Foundation	219	4	259 W 19th St	New York	10011	(212) 462-1000
+The Drawing Center	The Drawing Center	/biz/the-drawing-center-new-york	2	4.5	35 Wooster St	New York	10013	(212) 219-2166
+Fisher Landau Center	Fisher Landau Center For Art	/biz/fisher-landau-center-for-art-long-island-city	0		3827 30th St	Long Island City	11101	(718) 937-0727
+Forbes Galleries	Forbes Magazine Galleries	/biz/forbes-magazine-galleries-new-york	6	3.5	60 Fifth Avenue	New York	10079	(212) 206-5549
+Frick Collection	Frick Collection	/biz/frick-collection-new-york	130	5	1 E 70th St	New York	10021	(212) 288-0700
+International Center of Photography	International Center of Photography	/biz/international-center-of-photography-new-york	44	3.5	1133 Ave of the Americas	New York	10036	(212) 857-0000
+International Print Center New York	International Print Center New York	/biz/international-print-center-new-york-new-york	0		526 W 26th St Rm 824	New York	10001	(212) 989-5090
+Jacques Marchais Museum of Tibetan Art	Jacques Marchais Museum of Tibetan Art	/biz/jacques-marchais-museum-of-tibetan-art-staten-island	3	5	338 Lighthouse Ave	Staten Island	10306	(718) 987-3500
+Japan Society	Japan Society	/biz/japan-society-new-york-2	18	4	333 E 47th St	New York	10017	(212) 832-1155
+Korea Society	The Korea Society	/biz/the-korea-society-new-york	0		950 3rd Ave	New York	10022	(212) 759-7525
+Metropolitan Museum of Art	Metropolitan Museum Of Art	/biz/metropolitan-museum-of-art-new-york	716	5	1000 5th Ave	New York	10028	(212) 535-7710
+The Cloisters	The Cloisters	/biz/the-cloisters-new-york-2	180	4.5	99 Margaret Corbin Dr	New York	10040	(212) 923-3700
+Municipal Art Society	Municipal Art Society the Information Exchange	/biz/municipal-art-society-the-information-exchange-new-york	0		457 Madison Ave	New York	10022	(212) 980-1297
+Museum for African Art	Museum For African Art	/biz/museum-for-african-art-long-island-city	1	4	3601 43rd Avenue	Long Island City	11101	(718) 784-7700
+Museum of Arts & Design	Museum of Arts and Design	/biz/museum-of-arts-and-design-new-york-2	42	4	2 Columbus Cir	New York	10019	(212) 299-7777
+Museum of Biblical Art	Museum of Biblical Art	/biz/museum-of-biblical-art-new-york	5	4	1865 Broadway	New York	10023	(212) 408-1500
+Museum of Comic and Cartoon Art	Museum Of Comic & Cartoon Art	/biz/museum-of-comic-and-cartoon-art-new-york-2	14	4	594 Broadway	New York	10012	(212) 254-3511
+Museum of Modern Art	Museum of Modern Art	/biz/museum-of-modern-art-new-york	587	4.5	11 W 53rd St	New York	10019	(212) 708-9400
+Museum of the Moving Image	Museum Of The Moving Image	/biz/museum-of-the-moving-image-astoria	49	4.5	3601 35th Ave	Astoria	11106	(718) 777-6888
+National Museum of Catholic Art and History	National Museum of Catholic Art & History - CLOSED	/biz/national-museum-of-catholic-art-and-history-new-york	0		443 E 115th St	New York	10029	(212) 828-5209
+Neue Galerie	Neue Galerie New York	/biz/neue-galerie-new-york-new-york	55	4	1048 5th Ave	New York	10028	(212) 628-6200
+New Museum of Contemporary Art	New Museum of Contemporary Art	/biz/new-museum-of-contemporary-art-new-york-2	90	3	235 Bowery St	New York	10002	(212) 219-1222
+New York Tattoo Museum	Guggenheim Museum	/biz/guggenheim-museum-new-york#query:New%20York%20Tattoo%20Museum	263	3.5	1071 5th Ave	New York	10128	(212) 423-3500
+Nicholas Roerich Museum	Nicholas Roerich Museum	/biz/nicholas-roerich-museum-new-york	2	5	319 W 107th Street	New York	10025	(212) 864-7752
+The Noguchi Museum	The Noguchi Museum	/biz/the-noguchi-museum-long-island-city	39	4.5	9-01 33rd Rd	Long Island City	11106	(718) 204-7088
+P.S. 1 Contemporary Art Center	Museum of Modern Art	/biz/museum-of-modern-art-new-york#query:P.S.%201%20Contemporary%20Art%20Center	587	4.5	11 W 53rd St	New York	10019	(212) 708-9400
+Queens Museum of Art	Queens Museum of Art	/biz/queens-museum-of-art-queens	22	4.5	NYC Building	Queens	11368	(718) 592-9700
+Rubin Museum of Art	Rubin Museum Of Art	/biz/rubin-museum-of-art-new-york	63	4.5	150 W 17th St	New York	10011	(212) 620-5000
+SculptureCenter	Sculpture Center	/biz/sculpture-center-long-island-city-2#atb_alias:AboutThisBizSpecialties/query:SculptureCenter	5	4	4419 Purves St	Long Island City	11101	(718) 361-1750
+Socrates Sculpture Park	Socrates Sculpture Park	/biz/socrates-sculpture-park-astoria	56	4	3205 Vernon Blvd	Astoria	11106	(718) 626-1533
+Solomon R. Guggenheim Museum	Guggenheim Museum Solomon R - CLOSED	/biz/guggenheim-museum-solomon-r-brooklyn	0		87 35th Street	Brooklyn	11232	(718) 369-2921
+Studio Museum in Harlem	Atrium Cafe at The Studio Museum in Harlem	/biz/atrium-cafe-at-the-studio-museum-in-harlem-new-york	0		144 W 125th St	New York	10027	(212) 864-4500
+Williamsburg Art & Historical Center	Williamsburg Art & Historical Center	/biz/williamsburg-art-and-historical-center-brooklyn	0		135 Broadway	Brooklyn	11211	(718) 486-7372
+White Columns	White Columns	/biz/white-columns-new-york	1	5	320 W 13th Street	New York	10014	(212) 924-4212
+Whitney Museum of American Art	Whitney Museum of American Art	/biz/whitney-museum-of-american-art-new-york	110	4	945 Madison Ave	New York	10021	(212) 570-3600
+American Museum of Natural History	American Museum of Natural History	/biz/american-museum-of-natural-history-new-york	447	4.5	Central Park W at 79th St	New York	10024	(212) 769-5100
+Brooklyn Historical Society	Brooklyn Historical Society	/biz/brooklyn-historical-society-brooklyn	2	4	128 Pierrepont St	Brooklyn	11201	(718) 222-4111
+Brooklyn Museum	Brooklyn Museum	/biz/brooklyn-museum-brooklyn-2	156	4.5	200 Eastern Pkwy	Brooklyn	11238	(718) 638-5000
+Casa Belvedere	Casa Belvedere Incorporated	/biz/casa-belvedere-incorporated-staten-island	0		77 Howard Ave	Staten Island	10301	(718) 273-7660
+China Institute in America	China Institute In America	/biz/china-institute-in-america-new-york	4	3.5	125 E 65th St	New York	10021	(212) 744-8181
+Conference House	Conference House Association Inc	/biz/conference-house-association-inc-staten-island	1	5	70 Satterlee St	Staten Island	10307	(718) 984-6046
+Center for Jewish History	The Center For Jewish History	/biz/the-center-for-jewish-history-new-york	1	4	15 W 16th Street	New York	10011	(917) 661-4041
+Coney Island USA	Coney Island Circus Sideshow	/biz/coney-island-circus-sideshow-brooklyn#query:Coney%20Island%20USA	43	4	1208 Surf Ave	Brooklyn	11224	(718) 372-5159
+Discovery Times Square Exposition	Discovery Times Square Exposition	/biz/discovery-times-square-exposition-new-york	37	3	226 W 44th St	New York	10036	(888) 988-8692
+Dyckman House Museum	The Cloisters	/biz/the-cloisters-new-york-2#query:Dyckman%20House%20Museum	180	4.5	99 Margaret Corbin Dr	New York	10040	(212) 923-3700
+Fraunces Tavern Museum	Fraunces Tavern Museum	/biz/fraunces-tavern-museum-new-york	3	5	54 Pearl St Fl 2	New York	10004	(212) 425-1778
+Greater Astoria Historical Society	Greater Astoria Historical Society	/biz/greater-astoria-historical-society-long-island-city	0		3520 Broadway	Long Island City	11106	(718) 278-0700
+Harbor Defense Museum	Grand Central Terminal	/biz/grand-central-terminal-new-york#query:Harbor%20Defense%20Museum	239	4.5	42nd St at Park Ave	New York	10017	(212) 340-2583
+Hispanic Society of America	Hispanic Society of America	/biz/hispanic-society-of-america-new-york	5	4.5	613 W 155th St	New York	10032	(212) 926-2234
+Historic Richmond Town	Historic Richmond Town	/biz/historic-richmond-town-staten-island	3	4.5	441 Clarke Avenue	Staten Island	10306	(718) 351-1611
+Intrepid Sea-Air-Space Museum	Intrepid Sea, Air & Space Museum	/biz/intrepid-sea-air-and-space-museum-new-york	61	4	W 46th St &amp; 12th Ave	New York	10036	(212) 245-0072
+Jewish Museum (New York)	Metropolitan Museum Of Art	/biz/metropolitan-museum-of-art-new-york#query:Jewish%20Museum%20%28New%20York%29	716	5	1000 5th Ave	New York	10028	(212) 535-7710
+Louis Armstrong House	Louis Armstrong House Museum	/biz/louis-armstrong-house-museum-corona	4	5	3456 107th St	Corona	11368	(718) 478-8274
+Merchant's House Museum	Merchant's House Museum	/biz/merchants-house-museum-new-york	15	4	29 E 4th St	New York	10003	(212) 777-1089
+El Museo del Barrio	El Museo Del Barrio	/biz/el-museo-del-barrio-new-york	21	4	1230 5th Ave	New York	10029	(212) 831-7272
+Ellis Island Immigration Museum	Ellis Island Immigration Museum	/biz/ellis-island-immigration-museum-new-york	82	4.5	Ellis Island	New York	10004	(212) 363-6307
+Madame Tussauds Wax Museum	Madame Tussauds New York	/biz/madame-tussauds-new-york-new-york#query:Madame%20Tussauds%20Wax%20Museum	85	4	234 W 42nd St	New York	10036	(212) 512-9600
+Museum of American Finance	The Museum of American Finance	/biz/the-museum-of-american-finance-new-york	4	4	48 Wall St	New York	10005	(212) 908-4110
+Museum of the City of New York	Museum of the City of New York	/biz/museum-of-the-city-of-new-york-new-york	45	4	1220 5th Ave	New York	10029	(212) 534-1672
+Museum of the Moving Image	Museum Of The Moving Image	/biz/museum-of-the-moving-image-astoria	49	4.5	3601 35th Ave	Astoria	11106	(718) 777-6888
+Museum of Chinese in America	Museum of Chinese in America	/biz/museum-of-chinese-in-america-new-york	26	4	215 Centre St	New York	10013	(212) 619-4785
+Museum at Eldridge Street	The Museum at Eldridge Street	/biz/the-museum-at-eldridge-street-new-york	7	4.5	12 Eldridge St	New York	10002	(212) 219-0888
+Museum of Jewish Heritage	Museum of Jewish Heritage	/biz/museum-of-jewish-heritage-new-york-2	17	4.5	36 Battery Pl	New York	10004	(212) 968-1800
+Museum of Sex	Museum of Sex	/biz/museum-of-sex-new-york	193	3	233 5th Ave	New York	10016	(212) 689-6337
+Museum of Television and Radio	Museum Of Television & Radio	/biz/museum-of-television-and-radio-new-york-2	1	4	25 W 52nd St Fl 6	New York	10019	(212) 621-6600
+National Museum of the American Indian	National Museum of the American Indian	/biz/national-museum-of-the-american-indian-new-york	26	4	1 Bowling Grn	New York	10004	(212) 514-3700
+National Museum of Lesbian, Gay, Bisexual & Transgender History	The Lesbian, Gay, Bisexual & Transgender Community Center	/biz/the-lesbian-gay-bisexual-and-transgender-community-center-new-york#query:National%20Museum%20of%20Lesbian%2C%20Gay%2C%20Bisexual%20%26%20Transgender%20History	4	5	208 W 13th St	New York	10011	(212) 620-7310
+Sports Museum of America	Metropolitan Museum Of Art	/biz/metropolitan-museum-of-art-new-york#query:Sports%20Museum%20of%20America	716	5	1000 5th Ave	New York	10028	(212) 535-7710
+New York City Fire Museum	Queens Museum of Art	/biz/queens-museum-of-art-queens#query:New%20York%20City%20Fire%20Museum	22	4.5	NYC Building	Queens	11368	(718) 592-9700
+New York City Police Museum	New York City Police Museum	/biz/new-york-city-police-museum-new-york	18	3.5	100 Old Slip	New York	10005	(212) 480-3100
+New-York Historical Society	New York Historical Society	/biz/new-york-historical-society-new-york-2	26	4.5	170 Central Park W	New York	10024	(212) 873-3400
+New York Transit Museum	New York Transit Museum	/biz/new-york-transit-museum-brooklyn	85	4.5	Boerum Pl and Schermerhorn St	Brooklyn	11201	(718) 694-1600
+The Paley Center for Media	Paley Center for Media	/biz/paley-center-for-media-new-york	23	3.5	25 W 52nd St	New York	10019	(212) 621-6880
+Queens County Farm Museum	Queens County Farm Museum	/biz/queens-county-farm-museum-floral-park	22	4	73-50 Little Neck Pkwy	Floral Park	11004	(718) 347-3276
+Ripley's Believe It or Not!	Ripley's Believe It or Not	/biz/ripleys-believe-it-or-not-new-york-2	39	3.5	234 W 42nd St	New York	10036	(212) 398-3133
+Skyscraper Museum	Skyscraper Museum	/biz/skyscraper-museum-new-york	12	2	39 Battery Pl	New York	10280	(212) 968-1961
+Sony Wonder Technology Lab	Sony Wonder Technology Lab	/biz/sony-wonder-technology-lab-new-york	34	3	550 Madison Ave	New York	10022	(212) 833-8100
+South Street Seaport Museum	South Street Seaport Museum	/biz/south-street-seaport-museum-new-york-2	2	2.5	12 Fulton St	New York	10038	(212) 748-8786
+Staten Island Institute of Arts & Sciences	Strand Book Store	/biz/strand-book-store-new-york#query:Staten%20Island%20Institute%20of%20Arts%20%26%20Sciences	568	4	828 Broadway	New York	10003	(212) 473-1452
+Yeshiva University Museum	Yeshiva University Museum	/biz/yeshiva-university-museum-manhattan	1	4	15 W 16th St	Manhattan	10011	(212) 294-8330
+Center for Architecture	Center for Architecture	/biz/center-for-architecture-new-york	2	4.5	536 LaGuardia Place	New York	10012	(212) 683-0023
+Cooper-Hewitt, National Design Museum	Cooper-Hewitt Museum	/biz/cooper-hewitt-museum-new-york#query:Cooper-Hewitt%2C%20National%20Design%20Museum	62	3.5	2 East 91st St	New York	10128	(212) 849-8400
+Fashion Institute of Technology	Fashion Institute of Technology	/biz/fashion-institute-of-technology-new-york-2	16	3.5	27th St &amp; 7th Ave	New York	10001	(212) 217-7999
+National Academy of Design	National Academy of Design	/biz/national-academy-of-design-new-york	0		1083 5th Ave	New York	10128	(212) 369-4880
+Parsons The New School for Design	Parsons The New School For Design	/biz/parsons-the-new-school-for-design-new-york-4	10	3.5	65 5th Ave	New York	10003	(212) 229-5459
+American Museum of Natural History	American Museum of Natural History	/biz/american-museum-of-natural-history-new-york	447	4.5	Central Park W at 79th St	New York	10024	(212) 769-5100
+Hayden Planetarium	Hayden Planetarium	/biz/hayden-planetarium-new-york-2	18	4.5	175 Central Park W	New York	10024	(212) 769-5000
+Bronx Zoo	Bronx Zoo	/biz/bronx-zoo-bronx	167	4.5	2300 Southern Blvd	Bronx	10460	(718) 220-5100
+Brooklyn Botanic Garden	Brooklyn Botanic Garden	/biz/brooklyn-botanic-garden-brooklyn-2	170	4.5	1000 Washington Ave	Brooklyn	11225	(718) 623-7200
+Central Park Zoo	Central Park Zoo	/biz/central-park-zoo-new-york-6	90	4	830 5th Ave	New York	10021	(212) 439-6500
+Jamaica Bay Wildlife Refuge	Jamaica Bay Wildlife Refuge	/biz/jamaica-bay-wildlife-refuge-queens	4	5	Cross Bay Blvd	Queens	11693	(718) 318-4340
+New York Aquarium	The New York Aquarium	/biz/the-new-york-aquarium-brooklyn	81	3	Boardwalk &amp; W 8th St	Brooklyn	11201	(718) 265-3400
+New York Botanical Garden	New York Botanical Garden	/biz/new-york-botanical-garden-bronx	62	4.5	2900 Southern Blvd	Bronx	10458	(718) 817-8700
+New York Hall of Science	New York Hall of Science	/biz/new-york-hall-of-science-corona	24	4.5	4701 111th St	Corona	11368	(718) 699-0005
+Prospect Park Zoo	Prospect Park Zoo	/biz/prospect-park-zoo-brooklyn	31	4	450 Flatbush Ave	Brooklyn	11225	(718) 399-7339
+Queens Botanical Garden	Queens Botanical Garden	/biz/queens-botanical-garden-flushing	15	3.5	4350 Main St	Flushing	11355	(718) 886-3800
+Queens Zoo	Queens Zoo	/biz/queens-zoo-corona	13	4	5351 111th St	Corona	11368	(718) 271-1500
+Staten Island Zoo	Staten Island Zoo	/biz/staten-island-zoo-staten-island	5	4	614 Broadway	Staten Island	10310	(718) 442-3100
+Staten Island Botanical Garden	Staten Island Botanical Garden Inc	/biz/staten-island-botanical-garden-inc-staten-island	2	4	914 Richmond Ter	Staten Island	10301	(718) 442-3645
+The New York Chinese Scholar's Garden	The New York Chinese Scholar's Garden	/biz/the-new-york-chinese-scholars-garden-staten-island	8	5	1000 Richmond Ter	Staten Island	10301	(718) 273-8200
+Wave Hill	Wave Hill	/biz/wave-hill-bronx-2	36	4.5	675 W 252nd St	Bronx	10462	(718) 549-3200
+Brooklyn Children's Museum	Brooklyn Children's Museum	/biz/brooklyn-childrens-museum-brooklyn	19	4.5	145 Brooklyn Avenue	Brooklyn	11213	(718) 735-4400
+Children's Museum of the Arts	Children's Museum of the Arts	/biz/childrens-museum-of-the-arts-new-york	9	3.5	182 Lafayette St	New York	10013	(212) 274-0986
+Children's Museum of Manhattan	Children's Museum of Manhattan	/biz/childrens-museum-of-manhattan-new-york	19	4	212 W 83rd St	New York	10024	(212) 721-1223
+Jewish Children's Museum	The Jewish Children's Museum - CLOSED	/biz/the-jewish-childrens-museum-brooklyn	0		792 Eastern Parkway	Brooklyn	11213	(718) 467-0600
+Staten Island Children's Museum	Staten Island Childrens Museum	/biz/staten-island-childrens-museum-staten-island	6	4.5	1000 Richmond Ter	Staten Island	10301	(718) 273-2060
