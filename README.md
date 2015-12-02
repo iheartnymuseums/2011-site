@@ -26,4 +26,4 @@ It was a hit, particularly among the large demographic of New Yorkers who are bo
 > 
 > Well, I’m not much of a designer but I like making stuff that uses simple color bars and graphics to represent data, ever since my boss made me attend a Edward Tufte lecture...I got interview requests from writers at the Village Voice and the WSJ the day the map went up, so hopefully this chart gets out to the people who need one more reminder to check out all that’s great in this city.
 
-What a hoser I was. And yet [iheartnymuseums.com](http://iheartnymuseums.com) remains the most important and popular thing I have ever contributed to the Internet. So even though I'm long gone out of New York, I'm hoping to redo it in Middleman and React over the holiday break. Or at least add `<link rel="stylesheet" href="bootstrap.css"> to it.
+What a hoser I was. And yet [iheartnymuseums.com](http://iheartnymuseums.com) remains the most important and popular thing I have ever contributed to the Internet. So even though I'm long gone out of New York, I'm hoping to redo it in Middleman and React over the holiday break. Or at least add `<link rel="stylesheet" href="bootstrap.css">` to it.
