@@ -1,0 +1,359 @@
+html{
+	font: 1.0em Georgia, Times, serif;
+}
+
+p{
+	font-size: 1.0em;
+}
+
+div#intro-header p {
+	font-size: 1.1em;
+}
+
+#top-wrapper li{
+	font-size: 0.95em;
+}
+/* float clearing for IE6 */
+* html .clearfix{
+  height: 1%;
+  overflow: visible;
+}
+
+/* float clearing for IE7 */
+*+html .clearfix{
+  min-height: 1%;
+}
+
+/* float clearing for everyone else */
+.clearfix:after{
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+  font-size: 0;
+}
+
+body{
+	text-align:center;
+}
+
+h1,h2,h3,h4,h5{
+	margin:0;
+	padding: 0;
+}
+
+h1 a:link, h1 a:visited{
+	color: #000;
+}
+
+h1#site-hed{
+	font: 22pt Verdana, Helvetica, Arial, Times;
+	display: inline;
+}
+
+.heart{
+	color: red;
+}
+
+a:link, a:visited, a.anchor{
+	color: #23c;
+	text-decoration: none;
+}
+
+a.img, a:link, img{ 
+	text-decoration: none;
+	border: none;
+	}
+
+a:hover, a.anchor:hover {
+	text-decoration: underline;
+	cursor:pointer;	
+}
+
+
+div#tablekey{
+	font: 10pt Verdana, Helvetica, Arial;
+	text-align: right;
+	margin-bottom: 3px;
+}
+
+#tablekey span{
+	
+	color: white;
+	padding: 3px;
+}
+
+
+td.address{cursor:pointer;	}
+
+div#header{
+	border-bottom: thin solid #aaa;
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+ul.navbar a:link, ul.navbar a:hover,  ul.navbar a:visited, p a:link, p a:hover, p a:visited, td.yelp_info a:link, td.yelp_info a:visited{
+	color:#CD0000;
+	
+}
+ul.navbar{
+	float:right;
+}
+ul.navbar li{
+	font-family: Verdana, Helvetica, Arial;
+	display: inline;
+	margin-right: 10px;
+}
+
+div#footer{
+	
+	border-top: thin solid #777;
+	margin-top: 20px;
+	height: 100px;
+	width: 100%;
+}
+
+a.anchor{
+}
+
+a.homepage_link{
+	display:none;
+	font-size: 9pt;
+	font-family: Arial;
+}
+
+tr.selected td a.homepage_link{
+	display: inline;
+	
+}
+
+
+.dt{
+	font-family: Verdana, Helvetica, Arial;	
+}
+
+div#container{
+	margin: 0 auto;
+	text-align:left;
+	width: 1080px;
+}
+
+div#content{
+	margin-top: 18px;
+}
+
+div.section{
+	margin-bottom: 14px;
+}
+
+div.left.col{
+	float:left;
+	width: 520px;
+}
+
+div.right.col{
+	float: right;
+}
+
+div#map-wrap{
+	border: thin solid #797;
+	width: 460px;
+	height: 410px;
+}
+
+
+
+
+
+img.icon{
+	width: 16px
+}
+
+div.widget-icons{
+	margin-top: 4px;
+}
+
+div.sked{
+	font-size: 7pt;
+	text-align: center;
+}
+
+div.sked div.free{
+	color: #44f;
+}
+
+td.yelp_info{
+	font-size: 9pt;
+	text-align: center;
+	width: 95px;
+	border-right: thin solid #bbb;
+}
+
+table#listing{
+	border-collapse: collapse;
+	border-spacing:0;
+}
+table#listing td{
+	border-bottom: thin solid #ddd;
+	padding: 5px;
+}
+
+table#listing th{
+	text-align: center;
+}
+td.address{
+	width: 160px;
+	font-size: 9pt;
+}
+
+.boro{
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+}
+
+td.fee{
+	width: 65px;
+}
+
+div.fee{
+	font-size: 10pt;
+	text-align: right;
+}
+
+div.member.fee{
+	font-size: 8pt;
+	font-style: italic;
+	color: #494;
+}
+
+table.tablesorter th{
+	cursor: pointer;
+}
+
+table.tablesorter thead th.th_hover{
+	background: #d8e9ff;
+}
+
+table#listing th{
+	font-family: Helvetica, Arial;
+	font-size: 9pt;
+	border-top: 1px solid #333;
+}
+
+
+table#listing th.day{
+	font-weight: 400;
+	font-size: 8pt;
+	width: 90px;
+	padding: 4px 0;
+}
+
+table#listing td.address{
+	vertical-align: top;
+}
+
+table#listing td.day{
+	vertical-align: top;
+	padding: 0;
+	width: 90px;
+}
+
+table#listing tr.highlighted td{
+	background: #F2D1FF;
+}
+
+
+table#listing tr.selected td{
+	background: #E3D1FF;
+}
+
+
+	td.closed{
+		background: #fff;
+	
+	}
+	
+	
+	
+	div.day-bar{
+		height: 10px;
+		width: 89px;
+		background: #ccc;
+		margin-top: 15%;
+		position: relative;	
+		border-right: thin solid #333;
+	}
+	
+	td.day:last-child div.day-bar{
+		border-right: 0;
+	}
+
+	td.today div.day-bar{
+		background: #888;
+	}
+	td.today.closed div.day-bar{
+	}
+	
+	div.part-bar{
+/*
+		border-left: thin solid #fff;
+		border-right: thin solid #fff;
+*/		
+		height: 10px;
+		position: relative;
+	}
+	
+	div.part-bar{
+	}
+	
+	td.today div.day-bar{
+		background: #777;
+		
+	}
+
+	span.suggested{
+		color: #44d;
+	}
+	
+	
+	
+	tr.suggested div.part-bar.open, #tablekey .suggested{
+		background:#44a;
+	}
+
+	div.part-bar.open, #tablekey .open{
+		background: #5f5;
+	}
+
+	div.part-bar.free, #tablekey .free{
+		background: #79f;
+	}
+
+td.museum_name{
+	font-size: 10pt;
+	width: 180px;
+}
+
+th.header.headerSortUp, th.header.headerSortDown{
+	background: #ddf;
+}
+
+div.info_window{
+	font: 0.9em Verdana, Arial, sans-serif;
+	
+}
+
+ul.share, ul.share li{
+	display: inline;
+	margin-left: 2px;
+	padding: 0;
+}
+
+#about-text{
+	font-size: 14pt;
+}
+
+div.photo{
+	margin-bottom: 15px;
+}
